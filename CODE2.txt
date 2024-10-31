@@ -21,8 +21,152 @@ campaignTrail_temp.questions_json = [
         "model": "campaign_trail.question",
         "pk": 42528,
         "fields": {
-            "priority": 0,
-            "description": "put description here",
+            "priority": 1,
+            "description": "Mike, the balloting isn’t looking great. You have full access in only Arkansas. While we may have some write-in campaigns going on in other states, you are still largely cut off from the ballot box. How do you plan to address this?\n",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 42738,
+        "fields": {
+            "priority": 1,
+            "description": "Drugs and alcohol have always been your party’s main focus, and this year will be no different. That said, your positions on other issues are important, too. What issues will your campaign address in this election?\n\n",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 42751,
+        "fields": {
+            "priority": 1,
+            "description": "During one of your regular interviews with one of several third-party publications, you’re asked about your opponents. Is there anything you’d like to say about Donald Trump and Kamala Harris?\n",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 42764,
+        "fields": {
+            "priority": 1,
+            "description": "Money will never cease to be an issue for parties like yours, Mike. You know this. That said, the frugal nature of your campaign so far means you’ve hardly spent any money, and yet you’ve managed to rack up a few donations. It’s nothing major, but how do you figure we spend this very limited surplus?\n",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 42777,
+        "fields": {
+            "priority": 1,
+            "description": "May 10th, 2023. Congratulations, Michael! You’ve just been selected as the Prohibition Party’s candidate for the United States presidential election. What will you say to the dozens of supporters who attended the convention in Buffalo?\n",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 42790,
+        "fields": {
+            "priority": 1,
+            "description": "May 10th, 2023. Congratulations, Michael! You’ve just been selected as the Prohibition Party’s candidate for the United States presidential election. What will you say to the dozens of supporters who attended the convention in Buffalo?\n",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 42803,
+        "fields": {
+            "priority": 1,
+            "description": "May 10th, 2023. Congratulations, Michael! You’ve just been selected as the Prohibition Party’s candidate for the United States presidential election. What will you say to the dozens of supporters who attended the convention in Buffalo?\n",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 42816,
+        "fields": {
+            "priority": 1,
+            "description": "May 10th, 2023. Congratulations, Michael! You’ve just been selected as the Prohibition Party’s candidate for the United States presidential election. What will you say to the dozens of supporters who attended the convention in Buffalo?\n",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 42829,
+        "fields": {
+            "priority": 1,
+            "description": "May 10th, 2023. Congratulations, Michael! You’ve just been selected as the Prohibition Party’s candidate for the United States presidential election. What will you say to the dozens of supporters who attended the convention in Buffalo?\n",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 42842,
+        "fields": {
+            "priority": 1,
+            "description": "May 10th, 2023. Congratulations, Michael! You’ve just been selected as the Prohibition Party’s candidate for the United States presidential election. What will you say to the dozens of supporters who attended the convention in Buffalo?\n",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 42855,
+        "fields": {
+            "priority": 1,
+            "description": "May 10th, 2023. Congratulations, Michael! You’ve just been selected as the Prohibition Party’s candidate for the United States presidential election. What will you say to the dozens of supporters who attended the convention in Buffalo?\n",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 42868,
+        "fields": {
+            "priority": 1,
+            "description": "May 10th, 2023. Congratulations, Michael! You’ve just been selected as the Prohibition Party’s candidate for the United States presidential election. What will you say to the dozens of supporters who attended the convention in Buffalo?\n",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 42881,
+        "fields": {
+            "priority": 1,
+            "description": "May 10th, 2023. Congratulations, Michael! You’ve just been selected as the Prohibition Party’s candidate for the United States presidential election. What will you say to the dozens of supporters who attended the convention in Buffalo?\n",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 42894,
+        "fields": {
+            "priority": 1,
+            "description": "May 10th, 2023. Congratulations, Michael! You’ve just been selected as the Prohibition Party’s candidate for the United States presidential election. What will you say to the dozens of supporters who attended the convention in Buffalo?\n",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 42907,
+        "fields": {
+            "priority": 1,
+            "description": "May 10th, 2023. Congratulations, Michael! You’ve just been selected as the Prohibition Party’s candidate for the United States presidential election. What will you say to the dozens of supporters who attended the convention in Buffalo?\n",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 42920,
+        "fields": {
+            "priority": 1,
+            "description": "May 10th, 2023. Congratulations, Michael! You’ve just been selected as the Prohibition Party’s candidate for the United States presidential election. What will you say to the dozens of supporters who attended the convention in Buffalo?\n",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 42933,
+        "fields": {
+            "priority": 1,
+            "description": "May 10th, 2023. Congratulations, Michael! You’ve just been selected as the Prohibition Party’s candidate for the United States presidential election. What will you say to the dozens of supporters who attended the convention in Buffalo?\n",
             "likelihood": 1
         }
     }
@@ -91,6 +235,534 @@ campaignTrail_temp.answers_json = [
         "fields": {
             "question": 42514,
             "description": "There’s no reason to reinvent the wheel here. I’m sure someone can find me an interview somewhere, local TV or maybe a magazine. We could really use the publicity. It'd also be a great way to share some of our positions on certain issues.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42537,
+        "fields": {
+            "question": 42528,
+            "description": "I’ve got some pretty liberal positions. I’m pro choice, pro LGBTQ+, but I can also appeal to the conservative, small government type. I don’t see why we can’t campaign in some of the less competitive states and try to get last-minute ballot access in states like Alaska or Hawaii.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42538,
+        "fields": {
+            "question": 42528,
+            "description": "It’s a long shot, but let’s take a trip to Wyoming and visit a few reservations. Substance abuse, be it alcohol or cocaine, is tragically high among Native Americans. These people are as driven as any other group of voters, and I’d like for them to hear what Michael Wood has to say.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42539,
+        "fields": {
+            "question": 42528,
+            "description": "The problems we’re trying to solve for the country aren’t exclusive to any state. I’ll just stick with what I’ve got, and I can even personally campaign in a couple of these states to get a bit of support going. What’s the going rate for hotels in Philadelphia?\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42540,
+        "fields": {
+            "question": 42528,
+            "description": "The write-in stuff is one thing, but I think we need to take advantage of the state where we’re actually on the ballot. Spend whatever we can on Arkansas, I’ll be there as long as you need me to. That’s where we can make the biggest splash.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42739,
+        "fields": {
+            "question": 42738,
+            "description": "We shouldn’t over complicate our platform too much. I’m a moderate on a lot of issues. I respect your rights as long as you respect mine, that kind of thing. This way we can appeal to as many people as possible. \n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42742,
+        "fields": {
+            "question": 42738,
+            "description": "If we want a shot at making any kind of mark on this election, we’re going to need to fundraise. I’ll give a speech commending the uptick in votes the party’s gotten the last few campaigns, and see if I can’t get some of these guys to open their pockets a bit.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42745,
+        "fields": {
+            "question": 42738,
+            "description": "Alcohol is as bad as smoking or doing drugs, and the Prohibition Party is as good as dead if we don’t begin this campaign on addressing substance abuse in this country. My speech is gonna reflect the drug problems we’re currently facing, and how I plan to fix them.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42748,
+        "fields": {
+            "question": 42738,
+            "description": "People are angry. They’re tired of out of touch, establishment politicians dictating their day-to-day lives. I’m offering you a chance to break free from that cycle. If we tap into that energy, we can really make a difference in this election.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42755,
+        "fields": {
+            "question": 42751,
+            "description": "Nope.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42758,
+        "fields": {
+            "question": 42751,
+            "description": "If you put a gun to my head and told me to vote for either Trump or Harris, I’d tell you to pull the trigger.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42761,
+        "fields": {
+            "question": 42751,
+            "description": "Yeah, one of them will probably win, but I don’t want to discuss their campaigns. I’ll wish them luck and move on to the next question.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42765,
+        "fields": {
+            "question": 42764,
+            "description": "I think we ought to spare some funds for advertising in Arkansas, it is our main state after all. Maybe highlight some of my anti-marijuana stances, those people like that don't they?\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42768,
+        "fields": {
+            "question": 42764,
+            "description": "Why don't we just save the money? I feel that we may need extra funds in the future, in case the ol' war chest goes empty.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42771,
+        "fields": {
+            "question": 42764,
+            "description": "How about we try and set up some more interviews? They are likely our biggest source of exposure. See if we can get another thing with NPR.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42778,
+        "fields": {
+            "question": 42777,
+            "description": "Our success as a party relies on our long term vision. No, we aren’t going to win, and that’s okay. What we need to do is get out there and talk to the people, young people, and cement ourselves with the new generation. We are not your grandfather’s Prohibition Party.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42781,
+        "fields": {
+            "question": 42777,
+            "description": "If we want a shot at making any kind of mark on this election, we’re going to need to fundraise. I’ll give a speech commending the uptick in votes the party’s gotten the last few campaigns, and see if I can’t get some of these guys to open their pockets a bit.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42784,
+        "fields": {
+            "question": 42777,
+            "description": "Alcohol is as bad as smoking or doing drugs, and the Prohibition Party is as good as dead if we don’t begin this campaign on addressing substance abuse in this country. My speech is gonna reflect the drug problems we’re currently facing, and how I plan to fix them.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42787,
+        "fields": {
+            "question": 42777,
+            "description": "People are angry. They’re tired of out of touch, establishment politicians dictating their day-to-day lives. I’m offering you a chance to break free from that cycle. If we tap into that energy, we can really make a difference in this election.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42791,
+        "fields": {
+            "question": 42790,
+            "description": "Our success as a party relies on our long term vision. No, we aren’t going to win, and that’s okay. What we need to do is get out there and talk to the people, young people, and cement ourselves with the new generation. We are not your grandfather’s Prohibition Party.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42794,
+        "fields": {
+            "question": 42790,
+            "description": "If we want a shot at making any kind of mark on this election, we’re going to need to fundraise. I’ll give a speech commending the uptick in votes the party’s gotten the last few campaigns, and see if I can’t get some of these guys to open their pockets a bit.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42797,
+        "fields": {
+            "question": 42790,
+            "description": "Alcohol is as bad as smoking or doing drugs, and the Prohibition Party is as good as dead if we don’t begin this campaign on addressing substance abuse in this country. My speech is gonna reflect the drug problems we’re currently facing, and how I plan to fix them.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42800,
+        "fields": {
+            "question": 42790,
+            "description": "People are angry. They’re tired of out of touch, establishment politicians dictating their day-to-day lives. I’m offering you a chance to break free from that cycle. If we tap into that energy, we can really make a difference in this election.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42804,
+        "fields": {
+            "question": 42803,
+            "description": "Our success as a party relies on our long term vision. No, we aren’t going to win, and that’s okay. What we need to do is get out there and talk to the people, young people, and cement ourselves with the new generation. We are not your grandfather’s Prohibition Party.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42807,
+        "fields": {
+            "question": 42803,
+            "description": "If we want a shot at making any kind of mark on this election, we’re going to need to fundraise. I’ll give a speech commending the uptick in votes the party’s gotten the last few campaigns, and see if I can’t get some of these guys to open their pockets a bit.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42810,
+        "fields": {
+            "question": 42803,
+            "description": "Alcohol is as bad as smoking or doing drugs, and the Prohibition Party is as good as dead if we don’t begin this campaign on addressing substance abuse in this country. My speech is gonna reflect the drug problems we’re currently facing, and how I plan to fix them.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42813,
+        "fields": {
+            "question": 42803,
+            "description": "People are angry. They’re tired of out of touch, establishment politicians dictating their day-to-day lives. I’m offering you a chance to break free from that cycle. If we tap into that energy, we can really make a difference in this election.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42817,
+        "fields": {
+            "question": 42816,
+            "description": "Our success as a party relies on our long term vision. No, we aren’t going to win, and that’s okay. What we need to do is get out there and talk to the people, young people, and cement ourselves with the new generation. We are not your grandfather’s Prohibition Party.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42820,
+        "fields": {
+            "question": 42816,
+            "description": "If we want a shot at making any kind of mark on this election, we’re going to need to fundraise. I’ll give a speech commending the uptick in votes the party’s gotten the last few campaigns, and see if I can’t get some of these guys to open their pockets a bit.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42823,
+        "fields": {
+            "question": 42816,
+            "description": "Alcohol is as bad as smoking or doing drugs, and the Prohibition Party is as good as dead if we don’t begin this campaign on addressing substance abuse in this country. My speech is gonna reflect the drug problems we’re currently facing, and how I plan to fix them.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42826,
+        "fields": {
+            "question": 42816,
+            "description": "People are angry. They’re tired of out of touch, establishment politicians dictating their day-to-day lives. I’m offering you a chance to break free from that cycle. If we tap into that energy, we can really make a difference in this election.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42830,
+        "fields": {
+            "question": 42829,
+            "description": "Our success as a party relies on our long term vision. No, we aren’t going to win, and that’s okay. What we need to do is get out there and talk to the people, young people, and cement ourselves with the new generation. We are not your grandfather’s Prohibition Party.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42833,
+        "fields": {
+            "question": 42829,
+            "description": "If we want a shot at making any kind of mark on this election, we’re going to need to fundraise. I’ll give a speech commending the uptick in votes the party’s gotten the last few campaigns, and see if I can’t get some of these guys to open their pockets a bit.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42836,
+        "fields": {
+            "question": 42829,
+            "description": "Alcohol is as bad as smoking or doing drugs, and the Prohibition Party is as good as dead if we don’t begin this campaign on addressing substance abuse in this country. My speech is gonna reflect the drug problems we’re currently facing, and how I plan to fix them.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42839,
+        "fields": {
+            "question": 42829,
+            "description": "People are angry. They’re tired of out of touch, establishment politicians dictating their day-to-day lives. I’m offering you a chance to break free from that cycle. If we tap into that energy, we can really make a difference in this election.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42843,
+        "fields": {
+            "question": 42842,
+            "description": "Our success as a party relies on our long term vision. No, we aren’t going to win, and that’s okay. What we need to do is get out there and talk to the people, young people, and cement ourselves with the new generation. We are not your grandfather’s Prohibition Party.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42846,
+        "fields": {
+            "question": 42842,
+            "description": "If we want a shot at making any kind of mark on this election, we’re going to need to fundraise. I’ll give a speech commending the uptick in votes the party’s gotten the last few campaigns, and see if I can’t get some of these guys to open their pockets a bit.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42849,
+        "fields": {
+            "question": 42842,
+            "description": "Alcohol is as bad as smoking or doing drugs, and the Prohibition Party is as good as dead if we don’t begin this campaign on addressing substance abuse in this country. My speech is gonna reflect the drug problems we’re currently facing, and how I plan to fix them.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42852,
+        "fields": {
+            "question": 42842,
+            "description": "People are angry. They’re tired of out of touch, establishment politicians dictating their day-to-day lives. I’m offering you a chance to break free from that cycle. If we tap into that energy, we can really make a difference in this election.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42856,
+        "fields": {
+            "question": 42855,
+            "description": "Our success as a party relies on our long term vision. No, we aren’t going to win, and that’s okay. What we need to do is get out there and talk to the people, young people, and cement ourselves with the new generation. We are not your grandfather’s Prohibition Party.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42859,
+        "fields": {
+            "question": 42855,
+            "description": "If we want a shot at making any kind of mark on this election, we’re going to need to fundraise. I’ll give a speech commending the uptick in votes the party’s gotten the last few campaigns, and see if I can’t get some of these guys to open their pockets a bit.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42862,
+        "fields": {
+            "question": 42855,
+            "description": "Alcohol is as bad as smoking or doing drugs, and the Prohibition Party is as good as dead if we don’t begin this campaign on addressing substance abuse in this country. My speech is gonna reflect the drug problems we’re currently facing, and how I plan to fix them.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42865,
+        "fields": {
+            "question": 42855,
+            "description": "People are angry. They’re tired of out of touch, establishment politicians dictating their day-to-day lives. I’m offering you a chance to break free from that cycle. If we tap into that energy, we can really make a difference in this election.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42869,
+        "fields": {
+            "question": 42868,
+            "description": "Our success as a party relies on our long term vision. No, we aren’t going to win, and that’s okay. What we need to do is get out there and talk to the people, young people, and cement ourselves with the new generation. We are not your grandfather’s Prohibition Party.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42872,
+        "fields": {
+            "question": 42868,
+            "description": "If we want a shot at making any kind of mark on this election, we’re going to need to fundraise. I’ll give a speech commending the uptick in votes the party’s gotten the last few campaigns, and see if I can’t get some of these guys to open their pockets a bit.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42875,
+        "fields": {
+            "question": 42868,
+            "description": "Alcohol is as bad as smoking or doing drugs, and the Prohibition Party is as good as dead if we don’t begin this campaign on addressing substance abuse in this country. My speech is gonna reflect the drug problems we’re currently facing, and how I plan to fix them.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42878,
+        "fields": {
+            "question": 42868,
+            "description": "People are angry. They’re tired of out of touch, establishment politicians dictating their day-to-day lives. I’m offering you a chance to break free from that cycle. If we tap into that energy, we can really make a difference in this election.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42882,
+        "fields": {
+            "question": 42881,
+            "description": "Our success as a party relies on our long term vision. No, we aren’t going to win, and that’s okay. What we need to do is get out there and talk to the people, young people, and cement ourselves with the new generation. We are not your grandfather’s Prohibition Party.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42885,
+        "fields": {
+            "question": 42881,
+            "description": "If we want a shot at making any kind of mark on this election, we’re going to need to fundraise. I’ll give a speech commending the uptick in votes the party’s gotten the last few campaigns, and see if I can’t get some of these guys to open their pockets a bit.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42888,
+        "fields": {
+            "question": 42881,
+            "description": "Alcohol is as bad as smoking or doing drugs, and the Prohibition Party is as good as dead if we don’t begin this campaign on addressing substance abuse in this country. My speech is gonna reflect the drug problems we’re currently facing, and how I plan to fix them.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42891,
+        "fields": {
+            "question": 42881,
+            "description": "People are angry. They’re tired of out of touch, establishment politicians dictating their day-to-day lives. I’m offering you a chance to break free from that cycle. If we tap into that energy, we can really make a difference in this election.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42895,
+        "fields": {
+            "question": 42894,
+            "description": "Our success as a party relies on our long term vision. No, we aren’t going to win, and that’s okay. What we need to do is get out there and talk to the people, young people, and cement ourselves with the new generation. We are not your grandfather’s Prohibition Party.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42898,
+        "fields": {
+            "question": 42894,
+            "description": "If we want a shot at making any kind of mark on this election, we’re going to need to fundraise. I’ll give a speech commending the uptick in votes the party’s gotten the last few campaigns, and see if I can’t get some of these guys to open their pockets a bit.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42901,
+        "fields": {
+            "question": 42894,
+            "description": "Alcohol is as bad as smoking or doing drugs, and the Prohibition Party is as good as dead if we don’t begin this campaign on addressing substance abuse in this country. My speech is gonna reflect the drug problems we’re currently facing, and how I plan to fix them.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42904,
+        "fields": {
+            "question": 42894,
+            "description": "People are angry. They’re tired of out of touch, establishment politicians dictating their day-to-day lives. I’m offering you a chance to break free from that cycle. If we tap into that energy, we can really make a difference in this election.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42908,
+        "fields": {
+            "question": 42907,
+            "description": "Our success as a party relies on our long term vision. No, we aren’t going to win, and that’s okay. What we need to do is get out there and talk to the people, young people, and cement ourselves with the new generation. We are not your grandfather’s Prohibition Party.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42911,
+        "fields": {
+            "question": 42907,
+            "description": "If we want a shot at making any kind of mark on this election, we’re going to need to fundraise. I’ll give a speech commending the uptick in votes the party’s gotten the last few campaigns, and see if I can’t get some of these guys to open their pockets a bit.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42914,
+        "fields": {
+            "question": 42907,
+            "description": "Alcohol is as bad as smoking or doing drugs, and the Prohibition Party is as good as dead if we don’t begin this campaign on addressing substance abuse in this country. My speech is gonna reflect the drug problems we’re currently facing, and how I plan to fix them.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42917,
+        "fields": {
+            "question": 42907,
+            "description": "People are angry. They’re tired of out of touch, establishment politicians dictating their day-to-day lives. I’m offering you a chance to break free from that cycle. If we tap into that energy, we can really make a difference in this election.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42921,
+        "fields": {
+            "question": 42920,
+            "description": "Our success as a party relies on our long term vision. No, we aren’t going to win, and that’s okay. What we need to do is get out there and talk to the people, young people, and cement ourselves with the new generation. We are not your grandfather’s Prohibition Party.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42924,
+        "fields": {
+            "question": 42920,
+            "description": "If we want a shot at making any kind of mark on this election, we’re going to need to fundraise. I’ll give a speech commending the uptick in votes the party’s gotten the last few campaigns, and see if I can’t get some of these guys to open their pockets a bit.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42927,
+        "fields": {
+            "question": 42920,
+            "description": "Alcohol is as bad as smoking or doing drugs, and the Prohibition Party is as good as dead if we don’t begin this campaign on addressing substance abuse in this country. My speech is gonna reflect the drug problems we’re currently facing, and how I plan to fix them.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42930,
+        "fields": {
+            "question": 42920,
+            "description": "People are angry. They’re tired of out of touch, establishment politicians dictating their day-to-day lives. I’m offering you a chance to break free from that cycle. If we tap into that energy, we can really make a difference in this election.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42934,
+        "fields": {
+            "question": 42933,
+            "description": "Our success as a party relies on our long term vision. No, we aren’t going to win, and that’s okay. What we need to do is get out there and talk to the people, young people, and cement ourselves with the new generation. We are not your grandfather’s Prohibition Party.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42937,
+        "fields": {
+            "question": 42933,
+            "description": "If we want a shot at making any kind of mark on this election, we’re going to need to fundraise. I’ll give a speech commending the uptick in votes the party’s gotten the last few campaigns, and see if I can’t get some of these guys to open their pockets a bit.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42940,
+        "fields": {
+            "question": 42933,
+            "description": "Alcohol is as bad as smoking or doing drugs, and the Prohibition Party is as good as dead if we don’t begin this campaign on addressing substance abuse in this country. My speech is gonna reflect the drug problems we’re currently facing, and how I plan to fix them.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 42943,
+        "fields": {
+            "question": 42933,
+            "description": "People are angry. They’re tired of out of touch, establishment politicians dictating their day-to-day lives. I’m offering you a chance to break free from that cycle. If we tap into that energy, we can really make a difference in this election.\n"
         }
     }
 ]
@@ -6037,12 +6709,654 @@ campaignTrail_temp.answer_score_global_json = [
             "affected_candidate": 300,
             "global_multiplier": 0.001
         }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42741,
+        "fields": {
+            "answer": 42739,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.01
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42744,
+        "fields": {
+            "answer": 42742,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": -0.006
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42747,
+        "fields": {
+            "answer": 42745,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.1
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42750,
+        "fields": {
+            "answer": 42748,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.001
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42757,
+        "fields": {
+            "answer": 42755,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": -0.006
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42760,
+        "fields": {
+            "answer": 42758,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.1
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42763,
+        "fields": {
+            "answer": 42761,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.001
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42767,
+        "fields": {
+            "answer": 42765,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.01
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42770,
+        "fields": {
+            "answer": 42768,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": -0.006
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42773,
+        "fields": {
+            "answer": 42771,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.1
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42780,
+        "fields": {
+            "answer": 42778,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.01
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42783,
+        "fields": {
+            "answer": 42781,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": -0.006
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42786,
+        "fields": {
+            "answer": 42784,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.1
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42789,
+        "fields": {
+            "answer": 42787,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.001
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42793,
+        "fields": {
+            "answer": 42791,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.01
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42796,
+        "fields": {
+            "answer": 42794,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": -0.006
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42799,
+        "fields": {
+            "answer": 42797,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.1
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42802,
+        "fields": {
+            "answer": 42800,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.001
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42806,
+        "fields": {
+            "answer": 42804,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.01
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42809,
+        "fields": {
+            "answer": 42807,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": -0.006
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42812,
+        "fields": {
+            "answer": 42810,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.1
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42815,
+        "fields": {
+            "answer": 42813,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.001
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42819,
+        "fields": {
+            "answer": 42817,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.01
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42822,
+        "fields": {
+            "answer": 42820,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": -0.006
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42825,
+        "fields": {
+            "answer": 42823,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.1
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42828,
+        "fields": {
+            "answer": 42826,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.001
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42832,
+        "fields": {
+            "answer": 42830,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.01
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42835,
+        "fields": {
+            "answer": 42833,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": -0.006
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42838,
+        "fields": {
+            "answer": 42836,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.1
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42841,
+        "fields": {
+            "answer": 42839,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.001
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42845,
+        "fields": {
+            "answer": 42843,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.01
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42848,
+        "fields": {
+            "answer": 42846,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": -0.006
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42851,
+        "fields": {
+            "answer": 42849,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.1
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42854,
+        "fields": {
+            "answer": 42852,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.001
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42858,
+        "fields": {
+            "answer": 42856,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.01
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42861,
+        "fields": {
+            "answer": 42859,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": -0.006
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42864,
+        "fields": {
+            "answer": 42862,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.1
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42867,
+        "fields": {
+            "answer": 42865,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.001
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42871,
+        "fields": {
+            "answer": 42869,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.01
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42874,
+        "fields": {
+            "answer": 42872,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": -0.006
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42877,
+        "fields": {
+            "answer": 42875,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.1
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42880,
+        "fields": {
+            "answer": 42878,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.001
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42884,
+        "fields": {
+            "answer": 42882,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.01
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42887,
+        "fields": {
+            "answer": 42885,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": -0.006
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42890,
+        "fields": {
+            "answer": 42888,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.1
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42893,
+        "fields": {
+            "answer": 42891,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.001
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42897,
+        "fields": {
+            "answer": 42895,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.01
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42900,
+        "fields": {
+            "answer": 42898,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": -0.006
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42903,
+        "fields": {
+            "answer": 42901,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.1
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42906,
+        "fields": {
+            "answer": 42904,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.001
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42910,
+        "fields": {
+            "answer": 42908,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.01
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42913,
+        "fields": {
+            "answer": 42911,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": -0.006
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42916,
+        "fields": {
+            "answer": 42914,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.1
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42919,
+        "fields": {
+            "answer": 42917,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.001
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42923,
+        "fields": {
+            "answer": 42921,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.01
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42926,
+        "fields": {
+            "answer": 42924,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": -0.006
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42929,
+        "fields": {
+            "answer": 42927,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.1
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42932,
+        "fields": {
+            "answer": 42930,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.001
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42936,
+        "fields": {
+            "answer": 42934,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.01
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42939,
+        "fields": {
+            "answer": 42937,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": -0.006
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42942,
+        "fields": {
+            "answer": 42940,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.1
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42945,
+        "fields": {
+            "answer": 42943,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.001
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 42959,
+        "fields": {
+            "answer": 42537,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": -0.01
+        }
     }
 ]
 
 campaignTrail_temp.answer_score_issue_json = []
 
-campaignTrail_temp.answer_score_state_json = []
+campaignTrail_temp.answer_score_state_json = [
+    {
+        "model": "campaign_trail.answer_score_state",
+        "pk": 42960,
+        "fields": {
+            "answer": 42538,
+            "state": 1150,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "state_multiplier": 50
+        }
+    }
+]
 
 campaignTrail_temp.answer_feedback_json = [
     {
@@ -6115,6 +7429,600 @@ campaignTrail_temp.answer_feedback_json = [
             "answer": 42532,
             "candidate": 300,
             "answer_feedback": "You take interviews wherever you can get them. While few paying attention intend to vote for you, the exposure is still worth something. All this builds to an exclusive on NPR, where you’re able to have an honest conversation about the nation’s drug issues and your chances this election. Many viewers find it “endearing”.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42541,
+        "fields": {
+            "answer": 42537,
+            "candidate": 300,
+            "answer_feedback": "While some third-parties have a knack for appealing to single issue voters, this just doesn’t cut it. Your ballot access stays the same, and the time spent appealing to the other states hurts your numbers in the ones where you’re hoping to receive votes from.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42542,
+        "fields": {
+            "answer": 42538,
+            "candidate": 300,
+            "answer_feedback": "Call it a miracle, but your campaign does not go unheard in the Cowboy State. You’re able to raise just enough to meet the filing fee, and a week after a conversation with Wyoming Secretary of State Chuck Lee, you receive the news. Michael Wood and John Petrowski are on the ballot in Wyoming.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42543,
+        "fields": {
+            "answer": 42539,
+            "candidate": 300,
+            "answer_feedback": "It’s quite high, actually. That said, your presence in Pennsylvania and New Jersey gives your write-in campaign in these states a breath of fresh air. \n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42544,
+        "fields": {
+            "answer": 42540,
+            "candidate": 300,
+            "answer_feedback": "The average Arkansas voter probably won’t vote for you, but it’s good to introduce yourself  before they see your name on the ballot in November. \n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42740,
+        "fields": {
+            "answer": 42739,
+            "candidate": 300,
+            "answer_feedback": "Maybe specifying just isn’t worth the risk. Your party platform, besides the focus on drugs and alcohol, ends up more or less reflecting that of the Libertarian party. \n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42743,
+        "fields": {
+            "answer": 42742,
+            "candidate": 300,
+            "answer_feedback": "Mike, your party mates aren’t made of money. The last two conventions were held over conference calls, for Christ’s sake. You receive very little in donations to begin your campaign.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42746,
+        "fields": {
+            "answer": 42745,
+            "candidate": 300,
+            "answer_feedback": "Substance abuse is without a doubt your bread-and-butter issue. Keep pushing this kind of messaging, and your base (small as it may be) will support you the whole way.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42749,
+        "fields": {
+            "answer": 42748,
+            "candidate": 300,
+            "answer_feedback": "However true this speech may be, it does nothing to reinforce your party. Many in the convention wonder how this line of thinking sets you apart from all the other third party candidates. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42756,
+        "fields": {
+            "answer": 42755,
+            "candidate": 300,
+            "answer_feedback": "No harm, no foul.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42759,
+        "fields": {
+            "answer": 42758,
+            "candidate": 300,
+            "answer_feedback": "“Well, *haha* Okay then, Mike. No, we get it- what, you’re serious? You’d actually- alright. Wow…” \n\nNeedless to say, this is probably the worst response you could’ve given.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42762,
+        "fields": {
+            "answer": 42761,
+            "candidate": 300,
+            "answer_feedback": "Considering how combative campaigning has been in recent years, your audience considers this a nice change of pace. Acting statesmanlike while also remaining realistic about your chances of winning are qualities unique to your campaign that a lot of potential supporters are sure to admire. \n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42766,
+        "fields": {
+            "answer": 42765,
+            "candidate": 300,
+            "answer_feedback": "That remains to be seen, Michael. It appears you’re trying to appeal to the conservative majority of the state. Given that even the Republican Party’s rhetoric towards marijuana is softening, a few hard-line conservatives are indeed irritated. That said, those same hard-line conservatives will likely still be voting for Trump this November.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42769,
+        "fields": {
+            "answer": 42768,
+            "candidate": 300,
+            "answer_feedback": "This is the safest option, as it's always a good idea to save up. Although, you'll have to start spending that money sometime Your message won't spread itself.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42772,
+        "fields": {
+            "answer": 42771,
+            "candidate": 300,
+            "answer_feedback": "By catching their attention in a monetary fashion, you were able to get on NPR. The Interview goes just fine. This does give you some exposure, though it doesn't sway many to the cause.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42779,
+        "fields": {
+            "answer": 42778,
+            "candidate": 300,
+            "answer_feedback": "Your assessment is correct, you aren’t going to win. However, appealing to a younger audience is a great idea, considering the average age of your base is close to 55. \n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42782,
+        "fields": {
+            "answer": 42781,
+            "candidate": 300,
+            "answer_feedback": "Mike, your party mates aren’t made of money. The last two conventions were held over conference calls, for Christ’s sake. You receive very little in donations to begin your campaign.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42785,
+        "fields": {
+            "answer": 42784,
+            "candidate": 300,
+            "answer_feedback": "Substance abuse is without a doubt your bread-and-butter issue. Keep pushing this kind of messaging, and your base (small as it may be) will support you the whole way.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42788,
+        "fields": {
+            "answer": 42787,
+            "candidate": 300,
+            "answer_feedback": "However true this speech may be, it does nothing to reinforce your party. Many in the convention wonder how this line of thinking sets you apart from all the other third party candidates. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42792,
+        "fields": {
+            "answer": 42791,
+            "candidate": 300,
+            "answer_feedback": "Your assessment is correct, you aren’t going to win. However, appealing to a younger audience is a great idea, considering the average age of your base is close to 55. \n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42795,
+        "fields": {
+            "answer": 42794,
+            "candidate": 300,
+            "answer_feedback": "Mike, your party mates aren’t made of money. The last two conventions were held over conference calls, for Christ’s sake. You receive very little in donations to begin your campaign.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42798,
+        "fields": {
+            "answer": 42797,
+            "candidate": 300,
+            "answer_feedback": "Substance abuse is without a doubt your bread-and-butter issue. Keep pushing this kind of messaging, and your base (small as it may be) will support you the whole way.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42801,
+        "fields": {
+            "answer": 42800,
+            "candidate": 300,
+            "answer_feedback": "However true this speech may be, it does nothing to reinforce your party. Many in the convention wonder how this line of thinking sets you apart from all the other third party candidates. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42805,
+        "fields": {
+            "answer": 42804,
+            "candidate": 300,
+            "answer_feedback": "Your assessment is correct, you aren’t going to win. However, appealing to a younger audience is a great idea, considering the average age of your base is close to 55. \n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42808,
+        "fields": {
+            "answer": 42807,
+            "candidate": 300,
+            "answer_feedback": "Mike, your party mates aren’t made of money. The last two conventions were held over conference calls, for Christ’s sake. You receive very little in donations to begin your campaign.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42811,
+        "fields": {
+            "answer": 42810,
+            "candidate": 300,
+            "answer_feedback": "Substance abuse is without a doubt your bread-and-butter issue. Keep pushing this kind of messaging, and your base (small as it may be) will support you the whole way.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42814,
+        "fields": {
+            "answer": 42813,
+            "candidate": 300,
+            "answer_feedback": "However true this speech may be, it does nothing to reinforce your party. Many in the convention wonder how this line of thinking sets you apart from all the other third party candidates. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42818,
+        "fields": {
+            "answer": 42817,
+            "candidate": 300,
+            "answer_feedback": "Your assessment is correct, you aren’t going to win. However, appealing to a younger audience is a great idea, considering the average age of your base is close to 55. \n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42821,
+        "fields": {
+            "answer": 42820,
+            "candidate": 300,
+            "answer_feedback": "Mike, your party mates aren’t made of money. The last two conventions were held over conference calls, for Christ’s sake. You receive very little in donations to begin your campaign.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42824,
+        "fields": {
+            "answer": 42823,
+            "candidate": 300,
+            "answer_feedback": "Substance abuse is without a doubt your bread-and-butter issue. Keep pushing this kind of messaging, and your base (small as it may be) will support you the whole way.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42827,
+        "fields": {
+            "answer": 42826,
+            "candidate": 300,
+            "answer_feedback": "However true this speech may be, it does nothing to reinforce your party. Many in the convention wonder how this line of thinking sets you apart from all the other third party candidates. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42831,
+        "fields": {
+            "answer": 42830,
+            "candidate": 300,
+            "answer_feedback": "Your assessment is correct, you aren’t going to win. However, appealing to a younger audience is a great idea, considering the average age of your base is close to 55. \n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42834,
+        "fields": {
+            "answer": 42833,
+            "candidate": 300,
+            "answer_feedback": "Mike, your party mates aren’t made of money. The last two conventions were held over conference calls, for Christ’s sake. You receive very little in donations to begin your campaign.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42837,
+        "fields": {
+            "answer": 42836,
+            "candidate": 300,
+            "answer_feedback": "Substance abuse is without a doubt your bread-and-butter issue. Keep pushing this kind of messaging, and your base (small as it may be) will support you the whole way.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42840,
+        "fields": {
+            "answer": 42839,
+            "candidate": 300,
+            "answer_feedback": "However true this speech may be, it does nothing to reinforce your party. Many in the convention wonder how this line of thinking sets you apart from all the other third party candidates. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42844,
+        "fields": {
+            "answer": 42843,
+            "candidate": 300,
+            "answer_feedback": "Your assessment is correct, you aren’t going to win. However, appealing to a younger audience is a great idea, considering the average age of your base is close to 55. \n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42847,
+        "fields": {
+            "answer": 42846,
+            "candidate": 300,
+            "answer_feedback": "Mike, your party mates aren’t made of money. The last two conventions were held over conference calls, for Christ’s sake. You receive very little in donations to begin your campaign.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42850,
+        "fields": {
+            "answer": 42849,
+            "candidate": 300,
+            "answer_feedback": "Substance abuse is without a doubt your bread-and-butter issue. Keep pushing this kind of messaging, and your base (small as it may be) will support you the whole way.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42853,
+        "fields": {
+            "answer": 42852,
+            "candidate": 300,
+            "answer_feedback": "However true this speech may be, it does nothing to reinforce your party. Many in the convention wonder how this line of thinking sets you apart from all the other third party candidates. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42857,
+        "fields": {
+            "answer": 42856,
+            "candidate": 300,
+            "answer_feedback": "Your assessment is correct, you aren’t going to win. However, appealing to a younger audience is a great idea, considering the average age of your base is close to 55. \n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42860,
+        "fields": {
+            "answer": 42859,
+            "candidate": 300,
+            "answer_feedback": "Mike, your party mates aren’t made of money. The last two conventions were held over conference calls, for Christ’s sake. You receive very little in donations to begin your campaign.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42863,
+        "fields": {
+            "answer": 42862,
+            "candidate": 300,
+            "answer_feedback": "Substance abuse is without a doubt your bread-and-butter issue. Keep pushing this kind of messaging, and your base (small as it may be) will support you the whole way.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42866,
+        "fields": {
+            "answer": 42865,
+            "candidate": 300,
+            "answer_feedback": "However true this speech may be, it does nothing to reinforce your party. Many in the convention wonder how this line of thinking sets you apart from all the other third party candidates. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42870,
+        "fields": {
+            "answer": 42869,
+            "candidate": 300,
+            "answer_feedback": "Your assessment is correct, you aren’t going to win. However, appealing to a younger audience is a great idea, considering the average age of your base is close to 55. \n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42873,
+        "fields": {
+            "answer": 42872,
+            "candidate": 300,
+            "answer_feedback": "Mike, your party mates aren’t made of money. The last two conventions were held over conference calls, for Christ’s sake. You receive very little in donations to begin your campaign.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42876,
+        "fields": {
+            "answer": 42875,
+            "candidate": 300,
+            "answer_feedback": "Substance abuse is without a doubt your bread-and-butter issue. Keep pushing this kind of messaging, and your base (small as it may be) will support you the whole way.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42879,
+        "fields": {
+            "answer": 42878,
+            "candidate": 300,
+            "answer_feedback": "However true this speech may be, it does nothing to reinforce your party. Many in the convention wonder how this line of thinking sets you apart from all the other third party candidates. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42883,
+        "fields": {
+            "answer": 42882,
+            "candidate": 300,
+            "answer_feedback": "Your assessment is correct, you aren’t going to win. However, appealing to a younger audience is a great idea, considering the average age of your base is close to 55. \n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42886,
+        "fields": {
+            "answer": 42885,
+            "candidate": 300,
+            "answer_feedback": "Mike, your party mates aren’t made of money. The last two conventions were held over conference calls, for Christ’s sake. You receive very little in donations to begin your campaign.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42889,
+        "fields": {
+            "answer": 42888,
+            "candidate": 300,
+            "answer_feedback": "Substance abuse is without a doubt your bread-and-butter issue. Keep pushing this kind of messaging, and your base (small as it may be) will support you the whole way.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42892,
+        "fields": {
+            "answer": 42891,
+            "candidate": 300,
+            "answer_feedback": "However true this speech may be, it does nothing to reinforce your party. Many in the convention wonder how this line of thinking sets you apart from all the other third party candidates. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42896,
+        "fields": {
+            "answer": 42895,
+            "candidate": 300,
+            "answer_feedback": "Your assessment is correct, you aren’t going to win. However, appealing to a younger audience is a great idea, considering the average age of your base is close to 55. \n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42899,
+        "fields": {
+            "answer": 42898,
+            "candidate": 300,
+            "answer_feedback": "Mike, your party mates aren’t made of money. The last two conventions were held over conference calls, for Christ’s sake. You receive very little in donations to begin your campaign.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42902,
+        "fields": {
+            "answer": 42901,
+            "candidate": 300,
+            "answer_feedback": "Substance abuse is without a doubt your bread-and-butter issue. Keep pushing this kind of messaging, and your base (small as it may be) will support you the whole way.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42905,
+        "fields": {
+            "answer": 42904,
+            "candidate": 300,
+            "answer_feedback": "However true this speech may be, it does nothing to reinforce your party. Many in the convention wonder how this line of thinking sets you apart from all the other third party candidates. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42909,
+        "fields": {
+            "answer": 42908,
+            "candidate": 300,
+            "answer_feedback": "Your assessment is correct, you aren’t going to win. However, appealing to a younger audience is a great idea, considering the average age of your base is close to 55. \n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42912,
+        "fields": {
+            "answer": 42911,
+            "candidate": 300,
+            "answer_feedback": "Mike, your party mates aren’t made of money. The last two conventions were held over conference calls, for Christ’s sake. You receive very little in donations to begin your campaign.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42915,
+        "fields": {
+            "answer": 42914,
+            "candidate": 300,
+            "answer_feedback": "Substance abuse is without a doubt your bread-and-butter issue. Keep pushing this kind of messaging, and your base (small as it may be) will support you the whole way.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42918,
+        "fields": {
+            "answer": 42917,
+            "candidate": 300,
+            "answer_feedback": "However true this speech may be, it does nothing to reinforce your party. Many in the convention wonder how this line of thinking sets you apart from all the other third party candidates. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42922,
+        "fields": {
+            "answer": 42921,
+            "candidate": 300,
+            "answer_feedback": "Your assessment is correct, you aren’t going to win. However, appealing to a younger audience is a great idea, considering the average age of your base is close to 55. \n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42925,
+        "fields": {
+            "answer": 42924,
+            "candidate": 300,
+            "answer_feedback": "Mike, your party mates aren’t made of money. The last two conventions were held over conference calls, for Christ’s sake. You receive very little in donations to begin your campaign.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42928,
+        "fields": {
+            "answer": 42927,
+            "candidate": 300,
+            "answer_feedback": "Substance abuse is without a doubt your bread-and-butter issue. Keep pushing this kind of messaging, and your base (small as it may be) will support you the whole way.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42931,
+        "fields": {
+            "answer": 42930,
+            "candidate": 300,
+            "answer_feedback": "However true this speech may be, it does nothing to reinforce your party. Many in the convention wonder how this line of thinking sets you apart from all the other third party candidates. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42935,
+        "fields": {
+            "answer": 42934,
+            "candidate": 300,
+            "answer_feedback": "Your assessment is correct, you aren’t going to win. However, appealing to a younger audience is a great idea, considering the average age of your base is close to 55. \n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42938,
+        "fields": {
+            "answer": 42937,
+            "candidate": 300,
+            "answer_feedback": "Mike, your party mates aren’t made of money. The last two conventions were held over conference calls, for Christ’s sake. You receive very little in donations to begin your campaign.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42941,
+        "fields": {
+            "answer": 42940,
+            "candidate": 300,
+            "answer_feedback": "Substance abuse is without a doubt your bread-and-butter issue. Keep pushing this kind of messaging, and your base (small as it may be) will support you the whole way.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 42944,
+        "fields": {
+            "answer": 42943,
+            "candidate": 300,
+            "answer_feedback": "However true this speech may be, it does nothing to reinforce your party. Many in the convention wonder how this line of thinking sets you apart from all the other third party candidates. "
         }
     }
 ]
