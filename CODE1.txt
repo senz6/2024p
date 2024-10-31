@@ -1,7 +1,7 @@
 campaignTrail_temp.election_json = [
     {
         "model": "campaign_trail.election",
-        "pk": 20,
+        "pk": 21,
         "fields": {
             "year": 2016,
             "display_year": "2024Template",
