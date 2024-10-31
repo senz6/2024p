@@ -1,167 +1,17 @@
-campaignTrail_temp.election_json = [
-    {
-        "model": "campaign_trail.election",
-        "pk": 21,
-        "fields": {
-            "year": 2016,
-            "display_year": "2024Template",
-            "summary": "Temperance has long been abandoned. The war on drugs has failed.\n<P>\nThe pillars which were once the foundation of America’s longest-surviving third party have been tattered. All that remains is rubble.\n<P>\nThe Prohibition Party has, throughout its entire life, defaulted to the footnotes of electoral history. The Teetotalers have been long forgotten, barring a few hundred who keep the dream alive.\n<P>\nYet, the impending battle notwithstanding, Michael Wood is determined to open the nation’s eyes.\n<P>\nHe must.",
-            "image_url": "https://i.postimg.cc/KYbXyvB4/4-EDE7-CE9-E93-A-4229-B3-B5-E8-F29-C9-F9-F68.jpg",
-            "winning_electoral_vote_number": 270,
-            "advisor_url": "https://i.postimg.cc/tJcQ03NH/7040eeeb249a0685f5c45718fb8dd447.webp",
-            "recommended_reading": "<ul>\n<li><a href=https://www.chicagotribune.com/opinion/editorials/ct-edit-chicago-tribune-biden-endorsement-20200925-lnyxsb5qvrftnjjmj3rnzj33jy-story.html>Our Case For Joe Biden</a></li>\n<li><a href=https://nationalinterest.org/feature/case-trump-166808>The Case For Trump</a></li>\n<li><a href=https://www.npr.org/2020/11/18/935730100/how-biden-won-ramping-up-the-base-and-expanding-margins-in-the-suburbs>How Biden Won: Ramping Up The Base And Expanding Margins In The Suburbs</a></li>\n<li><a href=https://www.prospectmagazine.co.uk/politics/donald-trump-joe-biden-us-election-almost-win-votes-concede>Why Did Trump Almost Win?</a></li>\n<li><a href=https://www.hoover.org/research/no-evidence-voter-fraud-guide-statistical-claims-about-2020-election>No Evidence For Voter Fraud: A Guide To Statistical Claims About The 2020 Election</a></li>\n</ul>",
-            "has_visits": 1,
-            "no_electoral_majority_image": "../static/images/2012-no-majority.jpg"
-        }
-    }
-]
+e = campaignTrail_temp;
 
-campaignTrail_temp.temp_election_list = [
-    {
-        "id": 20,
-        "year": 2016,
-        "is_premium": 0,
-        "display_year": "2024Template"
-    }
-]
+            nct_stuff.themes[nct_stuff.selectedTheme].coloring_title = "#000000";
 
-campaignTrail_temp.credits = "Senz, RDS, and Bobby"
+            nct_stuff.themes[nct_stuff.selectedTheme].coloring_window = "#36454f";
 
-campaignTrail_temp.global_parameter_json = [
-    {
-        "model": "campaign_trail.global_parameter",
-        "pk": 1,
-        "fields": {
-            "vote_variable": 1.125,
-            "max_swing": 0.12,
-            "start_point": 0.94,
-            "candidate_issue_weight": 10,
-            "running_mate_issue_weight": 3,
-            "issue_stance_1_max": -0.71,
-            "issue_stance_2_max": -0.3,
-            "issue_stance_3_max": -0.125,
-            "issue_stance_4_max": 0.125,
-            "issue_stance_5_max": 0.3,
-            "issue_stance_6_max": 0.71,
-            "global_variance": 0.01,
-            "state_variance": 0.005,
-            "question_count": 19,
-            "default_map_color_hex": "#C9C9C9",
-            "no_state_map_color_hex": "#999999"
-        }
-    }
-]
+            document.getElementsByClassName("game_header")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selectedTheme].coloring_title;
 
-campaignTrail_temp.candidate_json = [
-    {
-        "model": "campaign_trail.candidate",
-        "pk": 1001,
-        "fields": {
-            "first_name": "Michael",
-            "last_name": "Wood",
-            "election": 20,
-            "party": "Prohibition Party",
-            "state": "California",
-            "priority": 1,
-            "description": "The Prohibition Party is the third longest-lived political party in the United States, behind only the Democrats and the Republicans. For each election since 1872, the Prohibition Party has nominated a candidate for president, and yet has only ever exceeded a 2% threshold twice, in 1888 and 1892. Despite the numerous problems associated with alcohol consumption in the United States, it seems the temperance movement has been left for dead. The year is 2024, America’s alcohol industry rakes in over 350 billion dollars annually, and it seems only a miracle could bring the concerns of the Prohibition Party to the public eye.\n<P>\nEnter Michael Wood. The Silicon Valley native and newly-retired CEO of Virtual Chip Exchange leads a ticket which once nominated esteemed president Herbert Hoover. With over 500 yearly hours of community service under his belt, Wood understands the plight of the average American and his struggles with substance abuse. With no political experience to speak of, Wood has made it his mission to revitalize the party after years of inadequacy. \n<P>\n<P>\nWill Wood be able to inspire excitement for the Prohibition Party? Or, like many in his party before him, is he destined for political irrelevance?\n",
-            "color_hex": "#d2a504",
-            "secondary_color_hex": null,
-            "is_active": 1,
-            "image_url": "https://i.postimg.cc/8k4zKx8h/f3640d865624d0051fe7b440478790ef.webp",
-            "electoral_victory_message": "This guy wins!",
-            "electoral_loss_message": "This guy loses!",
-            "no_electoral_majority_message": "We all win?",
-            "description_as_running_mate": null,
-            "candidate_score": 1,
-            "running_mate": false
-        }
-    },
-    {
-        "model": "campaign_trail.candidate",
-        "pk": 1002,
-        "fields": {
-            "first_name": "John",
-            "last_name": "Petrowski",
-            "election": 20,
-            "party": "Prohibition Party",
-            "state": "Ohio",
-            "priority": 1,
-            "description": "<p>Put description here</p>",
-            "color_hex": "#d2a504",
-            "secondary_color_hex": null,
-            "is_active": 0,
-            "image_url": "https://i.postimg.cc/Jh3LyBMb/0d277120f3e6659581187caccaa90793.webp",
-            "electoral_victory_message": "This guy wins!",
-            "electoral_loss_message": "This guy loses!",
-            "no_electoral_majority_message": "We all win?",
-            "description_as_running_mate": "Not to be outdone by former president Bill Clinton, VP-hopeful John Petrowski has never inhaled a puff of tobacco nor sipped a drop of alcohol.  Petrowski is similar to his running mate in that he, too, is a former CEO. Petrowski’s work as an executive at a graphic design firm was preceded by his decades long experience as a USPS clerk and as a fast food manager before that. \n<P>\nA unanimous choice for Vice-President at the Prohibition Party’s convention in Buffalo, Petrowski will use the extent of his political experience (serving on the board of his homeowner’s association) to push his ticket to its highest potential.\n",
-            "candidate_score": 1,
-            "running_mate": true
-        }
-    }
-]
+            $("#game_window")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selectedTheme].coloring_window;
 
-campaignTrail_temp.running_mate_json = [
-    {
-        "model": "campaign_trail.running_mate",
-        "pk": 109261,
-        "fields": {
-            "candidate": 1001,
-            "running_mate": 1002
-        }
-    }
-]
+            $(".container")[0].style.backgroundColor = "#370612";
 
-campaignTrail_temp.opponents_default_json = [
-    {
-        "election": 20,
-        "candidates": [
-            1001
-        ]
-    }
-]
+            document.getElementById("header").src = "https://jetsimon.com/public/placeholderbanner.png";
 
-campaignTrail_temp.opponents_weighted_json = [
-    {
-        "election": 20,
-        "candidates": [
-            1001
-        ]
-    }
-]
+            document.body.background = "https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg";
 
-jet_data = {
-    "headerColor": "#000000",
-    "windowColor": "#36454f",
-    "containerColor": "#370612",
-    "innerWindowColor": "#09092f",
-    "bannerImageUrl": "https://jetsimon.com/public/placeholderbanner.png",
-    "backgroundImageUrl": "https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg",
-    "endingTextColor": "#ffffff",
-    "customQuote": "'This is not your grandfather's Prohibition party.\"",
-    "gameTitle": "THE PROHIBITION TRAIL"
-}
-
-//#startcode
-
-
-corrr = '\n              <h2>THE PROHIBITION TRAIL</h2><font id="wittyquote" size="4" color="white"><em>'This is not your grandfather's Prohibition party."</em></font>\n            ';
-
-
-nct_stuff.themes[nct_stuff.selectedTheme].coloring_title = "#000000";
-
-nct_stuff.themes[nct_stuff.selectedTheme].coloring_window = "#36454f";
-
-document.getElementsByClassName("game_header")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selectedTheme].coloring_title;
-
-$("#game_window")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selectedTheme].coloring_window;
-
-$(".container")[0].style.backgroundColor = "#370612";
-
-document.getElementById("header").src = "https://jetsimon.com/public/placeholderbanner.png";
-
-document.body.background = "https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg";
-
-document.head.innerHTML += "<style>#results_container {color:#ffffff;} .inner_window_w_desc {background-color:#09092f!important;}</style>";
-
-//#endcode
+            e.election_json = [{"model":"campaign_trail.election","pk":20,"fields":{"year":2016,"summary":"<div style='overflow-y:scroll;height:200px;'>Temperance has long been abandoned. The war on drugs has failed.<br><P><br>The pillars which were once the foundation of America’s longest-surviving third party have been tattered. All that remains is rubble.<br><P><br>The Prohibition Party has, throughout its entire life, defaulted to the footnotes of electoral history. The Teetotalers have been long forgotten, barring a few hundred who keep the dream alive.<br><P><br>Yet, the impending battle notwithstanding, Michael Wood is determined to open the nation’s eyes.<br><P><br>He must.</div>","image_url":"https://i.postimg.cc/KYbXyvB4/4-EDE7-CE9-E93-A-4229-B3-B5-E8-F29-C9-F9-F68.jpg","winning_electoral_vote_number":270,"advisor_url":"https://i.postimg.cc/tJcQ03NH/7040eeeb249a0685f5c45718fb8dd447.webp","recommended_reading":"<ul>\n<li><a href=https://www.chicagotribune.com/opinion/editorials/ct-edit-chicago-tribune-biden-endorsement-20200925-lnyxsb5qvrftnjjmj3rnzj33jy-story.html>Our Case For Joe Biden</a></li>\n<li><a href=https://nationalinterest.org/feature/case-trump-166808>The Case For Trump</a></li>\n<li><a href=https://www.npr.org/2020/11/18/935730100/how-biden-won-ramping-up-the-base-and-expanding-margins-in-the-suburbs>How Biden Won: Ramping Up The Base And Expanding Margins In The Suburbs</a></li>\n<li><a href=https://www.prospectmagazine.co.uk/politics/donald-trump-joe-biden-us-election-almost-win-votes-concede>Why Did Trump Almost Win?</a></li>\n<li><a href=https://www.hoover.org/research/no-evidence-voter-fraud-guide-statistical-claims-about-2020-election>No Evidence For Voter Fraud: A Guide To Statistical Claims About The 2020 Election</a></li>\n</ul>","has_visits":0,"no_electoral_majority_image":"../static/images/2012-no-majority.jpg"}}];e.temp_election_list = [{"id":20,"year":2016,"is_premium":0,"display_year":"2024"}];e.credits = "Senz, RDS, Bobby, Oklahoman";e.global_parameter_json = [{"model":"campaign_trail.global_parameter","pk":1,"fields":{"vote_variable":1.125,"max_swing":0.12,"start_point":0.94,"candidate_issue_weight":10,"running_mate_issue_weight":3,"issue_stance_1_max":-0.71,"issue_stance_2_max":-0.3,"issue_stance_3_max":-0.125,"issue_stance_4_max":0.125,"issue_stance_5_max":0.3,"issue_stance_6_max":0.71,"global_variance":0.01,"state_variance":0.005,"question_count":19,"default_map_color_hex":"#C9C9C9","no_state_map_color_hex":"#999999"}}];e.candidate_json = [{"model":"campaign_trail.candidate","pk":1001,"fields":{"first_name":"Michael","last_name":"Wood","election":20,"party":"Prohibition Party","state":"California","priority":1,"description":"<div style='overflow-y:scroll;height:200px;'><div style='overflow-y:scroll;height:200px;'><div style='overflow-y:scroll;height:200px;'>The Prohibition Party is the third longest-lived political party in the United States, behind only the Democrats and the Republicans. For each election since 1872, the Prohibition Party has nominated a candidate for president, and yet has only ever exceeded a 2% threshold twice, in 1888 and 1892. Despite the numerous problems associated with alcohol consumption in the United States, it seems the temperance movement has been left for dead. The year is 2024, America’s alcohol industry rakes in over 350 billion dollars annually, and it seems only a miracle could bring the concerns of the Prohibition Party to the public eye.<br><P><br>Enter Michael Wood. The Silicon Valley native and newly-retired CEO of Virtual Chip Exchange leads a ticket which once nominated esteemed president Herbert Hoover. With over 500 yearly hours of community service under his belt, Wood understands the plight of the average American and his struggles with substance abuse. With no political experience to speak of, Wood has made it his mission to revitalize the party after years of inadequacy. <br><P><br>Despite a total ban on alcohol no longer serving as the party line, many who stumble upon Wood’s candidacy write it off as soon as they see his party’s name. Because of this, Wood faces an uphill battle. Not only does the campaign have direct ballot access in just one state (Arkansas), but the party has failed to surpass 10,000 voters in every presidential election since 1976. <br><P><br>Will Wood be able to inspire excitement for the Prohibition Party? Or, like many in his party before him, is he destined for political irrelevance?<br></div></div></div>","color_hex":"#d2a504","secondary_color_hex":null,"is_active":1,"image_url":"https://i.postimg.cc/8k4zKx8h/f3640d865624d0051fe7b440478790ef.webp","electoral_victory_message":"<h3>REAL PATRIOT DUMMY EXAMPLE SWEEPS</h3>","electoral_loss_message":"<h3>Fake News?</h3>","no_electoral_majority_message":"<h3>DUMMY EXAMPLE RETURNS TO HELL</h3>","description_as_running_mate":null,"candidate_score":1,"running_mate":false,"scrollable":true}},{"model":"campaign_trail.candidate","pk":1002,"fields":{"first_name":"John","last_name":"Petrowski","election":20,"party":"Prohibition Party","state":"Ohio","priority":1,"description":"<div style='overflow-y:scroll;height:200px;'><div style='overflow-y:scroll;height:200px;'><div style='overflow-y:scroll;height:200px;'>Not to be outdone by former president Bill Clinton, VP-hopeful John Petrowski has never inhaled a puff of tobacco nor sipped a drop of alcohol.  Petrowski is similar to his running mate in that he, too, is a former CEO. Petrowski’s work as an executive at a graphic design firm was preceded by his decades long experience as a USPS clerk and as a fast food manager before that. <br><P><br>A unanimous choice for Vice-President at the Prohibition Party’s convention in Buffalo, Petrowski will use the extent of his political experience (serving on the board of his homeowner’s association) to push his ticket to its highest potential.<br></div></div></div>","color_hex":"#0000ff","secondary_color_hex":null,"is_active":0,"image_url":"https://i.postimg.cc/Jh3LyBMb/0d277120f3e6659581187caccaa90793.webp","electoral_victory_message":"<h3>REAL PATRIOT DUMMY EXAMPLE SWEEPS</h3>","electoral_loss_message":"<h3>Fake News?</h3>","no_electoral_majority_message":"<h3>DUMMY EXAMPLE RETURNS TO HELL</h3>","description_as_running_mate":"<div style='overflow-y:scroll;height:200px;'><div style='overflow-y:scroll;height:200px;'><div style='overflow-y:scroll;height:200px;'>Not to be outdone by former president Bill Clinton, VP-hopeful John Petrowski has never inhaled a puff of tobacco nor sipped a drop of alcohol.  Petrowski is similar to his running mate in that he, too, is a former CEO. Petrowski’s work as an executive at a graphic design firm was preceded by his decades long experience as a USPS clerk and as a fast food manager before that. <br><P><br>A unanimous choice for Vice-President at the Prohibition Party’s convention in Buffalo, Petrowski will use the extent of his political experience (serving on the board of his homeowner’s association) to push his ticket to its highest potential.<br></div></div></div>","candidate_score":1,"running_mate":true,"scrollable":true,"partner":"0"}}];e.running_mate_json = [{"model":"campaign_trail.running_mate","pk":2001,"fields":{"candidate":1001,"running_mate":1002}}];
