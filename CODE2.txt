@@ -7892,7 +7892,9 @@ campaignTrail_temp.jet_data = [{
             "endingText": "Put ending text here, you can and should use <p>HTML tags</p>!",
             "amount": "5000"
         }
-    }
+    },
+    "banner_enabled": false,
+    "banner_data": {}
 }
 ]
 
