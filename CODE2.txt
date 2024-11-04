@@ -282,7 +282,7 @@ campaignTrail_temp.answers_json = [
         "pk": 42742,
         "fields": {
             "question": 42738,
-            "description": "If we want a shot at making any kind of mark on this election, we’re going to need to fundraise. I’ll give a speech commending the uptick in votes the party’s gotten the last few campaigns, and see if I can’t get some of these guys to open their pockets a bit.\n"
+            "description": "The states where we’ll be getting votes are more conservative than anything. That doesn’t mean we stray super far right, but it wouldn’t hurt to adopt some positions that appeal to them. Let's voice some of my pro-gun, low tax positions at all my rallies.\n"
         }
     },
     {
@@ -290,15 +290,7 @@ campaignTrail_temp.answers_json = [
         "pk": 42745,
         "fields": {
             "question": 42738,
-            "description": "Alcohol is as bad as smoking or doing drugs, and the Prohibition Party is as good as dead if we don’t begin this campaign on addressing substance abuse in this country. My speech is gonna reflect the drug problems we’re currently facing, and how I plan to fix them.\n"
-        }
-    },
-    {
-        "model": "campaign_trail.answer",
-        "pk": 42748,
-        "fields": {
-            "question": 42738,
-            "description": "People are angry. They’re tired of out of touch, establishment politicians dictating their day-to-day lives. I’m offering you a chance to break free from that cycle. If we tap into that energy, we can really make a difference in this election.\n"
+            "description": "You better believe that Liberals are looking for other options. I’m no Democrat, but pushing a few leftist policies can’t go wrong, can it?\n"
         }
     },
     {
@@ -6656,16 +6648,6 @@ campaignTrail_temp.answer_score_global_json = [
     },
     {
         "model": "campaign_trail.answer_score_global",
-        "pk": 42741,
-        "fields": {
-            "answer": 42739,
-            "candidate": 300,
-            "affected_candidate": 300,
-            "global_multiplier": 0.01
-        }
-    },
-    {
-        "model": "campaign_trail.answer_score_global",
         "pk": 42744,
         "fields": {
             "answer": 42742,
@@ -6681,27 +6663,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 42745,
             "candidate": 300,
             "affected_candidate": 300,
-            "global_multiplier": 0.1
-        }
-    },
-    {
-        "model": "campaign_trail.answer_score_global",
-        "pk": 42750,
-        "fields": {
-            "answer": 42748,
-            "candidate": 300,
-            "affected_candidate": 300,
-            "global_multiplier": 0.001
-        }
-    },
-    {
-        "model": "campaign_trail.answer_score_global",
-        "pk": 42757,
-        "fields": {
-            "answer": 42755,
-            "candidate": 300,
-            "affected_candidate": 300,
-            "global_multiplier": -0.006
+            "global_multiplier": -0.008
         }
     },
     {
@@ -6711,7 +6673,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 42758,
             "candidate": 300,
             "affected_candidate": 300,
-            "global_multiplier": 0.1
+            "global_multiplier": -0.09
         }
     },
     {
@@ -6721,17 +6683,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 42761,
             "candidate": 300,
             "affected_candidate": 300,
-            "global_multiplier": 0.001
-        }
-    },
-    {
-        "model": "campaign_trail.answer_score_global",
-        "pk": 42767,
-        "fields": {
-            "answer": 42765,
-            "candidate": 300,
-            "affected_candidate": 300,
-            "global_multiplier": 0.01
+            "global_multiplier": 0.007
         }
     },
     {
@@ -7306,6 +7258,56 @@ campaignTrail_temp.answer_score_issue_json = [
             "issue_score": -0.5,
             "issue_importance": 0
         }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 42979,
+        "fields": {
+            "answer": 42739,
+            "issue": 114,
+            "issue_score": -0.05,
+            "issue_importance": 0
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 42984,
+        "fields": {
+            "answer": 42745,
+            "issue": 114,
+            "issue_score": 0.5,
+            "issue_importance": 1
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 42985,
+        "fields": {
+            "answer": 42761,
+            "issue": "110",
+            "issue_score": 0.4,
+            "issue_importance": 1
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 42986,
+        "fields": {
+            "answer": 42758,
+            "issue": "110",
+            "issue_score": -0.4,
+            "issue_importance": 1
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 42988,
+        "fields": {
+            "answer": 42765,
+            "issue": 113,
+            "issue_score": -0.6,
+            "issue_importance": 1
+        }
     }
 ]
 
@@ -7352,6 +7354,61 @@ campaignTrail_temp.answer_score_state_json = [
             "candidate": 300,
             "affected_candidate": 300,
             "state_multiplier": 0.1
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_state",
+        "pk": 42980,
+        "fields": {
+            "answer": 42742,
+            "state": 1103,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "state_multiplier": 0.01
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_state",
+        "pk": 42981,
+        "fields": {
+            "answer": 42742,
+            "state": 1150,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "state_multiplier": 0.01
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_state",
+        "pk": 42982,
+        "fields": {
+            "answer": 42742,
+            "state": 1144,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "state_multiplier": -0.01
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_state",
+        "pk": 42983,
+        "fields": {
+            "answer": 42742,
+            "state": 1128,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "state_multiplier": -0.01
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_state",
+        "pk": 42987,
+        "fields": {
+            "answer": 42765,
+            "state": 1100,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "state_multiplier": 0.02
         }
     }
 ]
@@ -7480,7 +7537,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 42742,
             "candidate": 300,
-            "answer_feedback": "Mike, your party mates aren’t made of money. The last two conventions were held over conference calls, for Christ’s sake. You receive very little in donations to begin your campaign.\n"
+            "answer_feedback": "Actually, over half of the 9 states you’re getting votes in went for Joe Biden in 2020. \n"
         }
     },
     {
@@ -7489,16 +7546,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 42745,
             "candidate": 300,
-            "answer_feedback": "Substance abuse is without a doubt your bread-and-butter issue. Keep pushing this kind of messaging, and your base (small as it may be) will support you the whole way.\n"
-        }
-    },
-    {
-        "model": "campaign_trail.answer_feedback",
-        "pk": 42749,
-        "fields": {
-            "answer": 42748,
-            "candidate": 300,
-            "answer_feedback": "However true this speech may be, it does nothing to reinforce your party. Many in the convention wonder how this line of thinking sets you apart from all the other third party candidates. "
+            "answer_feedback": "Unfortunately, most liberals who aren’t voting for Kamala Harris will likely back Jill Stein or someone similar. On top of that, the very few who give your campaign so much as a quick glance discover your promise to ban marijuana, despite your pro-choice ideals.  \n"
         }
     },
     {
@@ -7962,6 +8010,11 @@ campaignTrail_temp.answer_feedback_json = [
     }
 ]
 
+campaignTrail_temp.candidate_image_url = "https://i.postimg.cc/8k4zKx8h/f3640d865624d0051fe7b440478790ef.webp";
+campaignTrail_temp.running_mate_image_url = "https://i.postimg.cc/Jh3LyBMb/0d277120f3e6659581187caccaa90793.webp";
+campaignTrail_temp.candidate_last_name = "Wood";
+campaignTrail_temp.running_mate_last_name = "Petrowski";
+
 campaignTrail_temp.multiple_endings = true;
 endingPicker = (out, totv, aa, quickstats) => {
 
@@ -7998,8 +8051,19 @@ Whatever you choose, Michael, know that you were able to run a national election
         return `Put ending text here, you can and should use <p>HTML tags</p>!`;
     }
     if(quickstats[0] > 270) {
-        setImage("");
-        return `Put ending text here, you can and should use <p>HTML tags</p>!`;
+        setImage("https://i.postimg.cc/GtbNg126/IMG-6035.jpg");
+        return `<b>January 16th, 1919.</b> 
+<p>
+There was tension in the air within the White House. The walls themselves seemed to buckle, as if they were bracing for the fallout of a decision long in the making. Mr. Woodrow Wilson, the 28th President of the United States, sat in his study, a dimly lit room cluttered with papers and half-finished thoughts. They were all that kept him company. Outside, the howling wind sang a mournful tune, a seeming prelude to the chaos Wilson was sure would unfold in the country he had fought so hard to lead. He rubbed his temple.
+<p>
+It was ratification day. The passage of this new amendment loomed over him, a harbinger of a future that he wanted no part of. How he wished he could have done something, anything, to quell the fervor with which the temperance movement had swept the nation. A roaring tide that had swept away the concerns of reason, moderation, and privacy, drowning them in a sea of moral righteousness. He recalled the hours pouring over the implications of that wretched Volstead Act, which sought to enforce what those.. Teetotalers had been whining about for years. He had no regrets in his veto. Of course he’d veto it, his conscience screamed at him against what he knew was a dangerous overreach of governmental power.
+<p>
+He took a deep breath, letting the air out slowly, as if to expel the despair that had long settled into his chest. He had fought the tide, but the waters had surged, sweeping away the last vestiges of hope he had clung to. What had once seemed a noble cause - a fight against the ravages of alcoholism - had morphed into a draconian measure that would only serve to deepen societal divides. He envisioned the total lawlessness which was to come, speakeasies, as we know them now, would spring up in defiance. The clandestine meetings where the very fabric of the law was sure to be disregarded.
+<p>
+Wilson rose from his chair, the weight of his haunting guilt propelling him to the window. He gazed out at the horizon, a darkening sky mirroring his turmoil. The streets were alive with celebration, the clanging of pots and pans, the shouting of triumph echoing through the evening. Yet, to him, it resounded a lament–an elegy for the freedom that was being sacrificed at the altar of misguided virtue.
+<p>
+In that moment, Wilson felt the distance between himself and the country he loved widen, a chasm filled with uncertainty and darkness. He knew that history would not remember today as a victory for the spirit of America. No, this was a turning point. A moment when the nation chose to bind itself in chains of its own design. As the cheers rose higher, drowning out the whispers of his conscience, he turned away from the window, sorrow tightening its grip on his heart. The fight for the soul of America was far from over, but on this day, Woodrow Wilson felt as if he lost a battle that would echo through the annals of time.
+`;
     }
 }
 
@@ -8047,13 +8111,18 @@ campaignTrail_temp.jet_data = [{
             "variable": "0",
             "operator": ">",
             "value": 0,
-            "endingImage": "",
-            "endingText": "Put ending text here, you can and should use <p>HTML tags</p>!",
+            "endingImage": "https://i.postimg.cc/GtbNg126/IMG-6035.jpg",
+            "endingText": "<b>January 16th, 1919.</b> \n<p>\nThere was tension in the air within the White House. The walls themselves seemed to buckle, as if they were bracing for the fallout of a decision long in the making. Mr. Woodrow Wilson, the 28th President of the United States, sat in his study, a dimly lit room cluttered with papers and half-finished thoughts. They were all that kept him company. Outside, the howling wind sang a mournful tune, a seeming prelude to the chaos Wilson was sure would unfold in the country he had fought so hard to lead. He rubbed his temple.\n<p>\nIt was ratification day. The passage of this new amendment loomed over him, a harbinger of a future that he wanted no part of. How he wished he could have done something, anything, to quell the fervor with which the temperance movement had swept the nation. A roaring tide that had swept away the concerns of reason, moderation, and privacy, drowning them in a sea of moral righteousness. He recalled the hours pouring over the implications of that wretched Volstead Act, which sought to enforce what those.. Teetotalers had been whining about for years. He had no regrets in his veto. Of course he’d veto it, his conscience screamed at him against what he knew was a dangerous overreach of governmental power.\n<p>\nHe took a deep breath, letting the air out slowly, as if to expel the despair that had long settled into his chest. He had fought the tide, but the waters had surged, sweeping away the last vestiges of hope he had clung to. What had once seemed a noble cause - a fight against the ravages of alcoholism - had morphed into a draconian measure that would only serve to deepen societal divides. He envisioned the total lawlessness which was to come, speakeasies, as we know them now, would spring up in defiance. The clandestine meetings where the very fabric of the law was sure to be disregarded.\n<p>\nWilson rose from his chair, the weight of his haunting guilt propelling him to the window. He gazed out at the horizon, a darkening sky mirroring his turmoil. The streets were alive with celebration, the clanging of pots and pans, the shouting of triumph echoing through the evening. Yet, to him, it resounded a lament–an elegy for the freedom that was being sacrificed at the altar of misguided virtue.\n<p>\nIn that moment, Wilson felt the distance between himself and the country he loved widen, a chasm filled with uncertainty and darkness. He knew that history would not remember today as a victory for the spirit of America. No, this was a turning point. A moment when the nation chose to bind itself in chains of its own design. As the cheers rose higher, drowning out the whispers of his conscience, he turned away from the window, sorrow tightening its grip on his heart. The fight for the soul of America was far from over, but on this day, Woodrow Wilson felt as if he lost a battle that would echo through the annals of time.\n",
             "amount": "270"
         }
     },
-    "banner_enabled": false,
-    "banner_data": {}
+    "banner_enabled": true,
+    "banner_data": {
+        "canName": "Wood",
+        "canImage": "https://i.postimg.cc/8k4zKx8h/f3640d865624d0051fe7b440478790ef.webp",
+        "runName": "Petrowski",
+        "runImage": "https://i.postimg.cc/Jh3LyBMb/0d277120f3e6659581187caccaa90793.webp"
+    }
 }
 ]
 
