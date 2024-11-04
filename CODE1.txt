@@ -239,7 +239,7 @@ campaignTrail_temp.running_mate_json = [
     }
 ]
 
-  campaignTrail_temp.credits = "<button onclick='credits()'>some cool people'</button>"
+  campaignTrail_temp.credits = "<button onclick='credits()'>some cool people</button>"
   
   credits = function() {
     credits = [ "Led by: Senz, RDS, Bobby", "Coding Help: Nelson Rockefeller, oohweeoh", "Special thanks to Oklahoman for giving feedback and editing pictures", "Credit to Jet for the mod tools, and Decstar for the music player."]
@@ -327,15 +327,15 @@ jet_data = {
 corrr = '\n              <h2>THE PROHIBITION TRAIL</h2>\n            ';
 
 
-nct_stuff.themes[nct_stuff.selectedTheme].coloring_title = "#700016";
+nct_stuff.themes[nct_stuff.selectedTheme].coloring_title = "#36464F";
 
-nct_stuff.themes[nct_stuff.selectedTheme].coloring_window = "#BFE6FF";
+nct_stuff.themes[nct_stuff.selectedTheme].coloring_window = "#727978";
 
 document.getElementsByClassName("game_header")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selectedTheme].coloring_title;
 
 $("#game_window")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selectedTheme].coloring_window;
 
-$(".container")[0].style.backgroundColor = "#FFFFFF";
+$(".container")[0].style.backgroundColor = "#360712";
 
 document.getElementById("header").src = "https://jetsimon.com/public/placeholderbanner.png";
 
