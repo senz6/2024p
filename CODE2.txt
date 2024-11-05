@@ -530,7 +530,7 @@ campaignTrail_temp.answers_json = [
         "pk": 42862,
         "fields": {
             "question": 42855,
-            "description": "What is it they say about the suburbs? That’s where the most swing happens?  Why don’t we swing by a couple neighborhoods and get them onto the prohibition train?\n"
+            "description": "What is it they say about the suburbs? That’s where the most swing happens? Why don’t we swing by a couple neighborhoods and get them onto the prohibition train?\n"
         }
     },
     {
@@ -1498,7 +1498,7 @@ campaignTrail_temp.issues_json = [
             "stance_5": "Regular Smokers",
             "stance_desc_5": 0,
             "stance_6": "Swiss Cheese Lungs",
-            "stance_desc_6": "0",
+            "stance_desc_6": 0,
             "stance_7": "Blacklungs",
             "stance_desc_7": 0,
             "election": 21
@@ -2279,7 +2279,7 @@ campaignTrail_temp.state_issue_score_json = [
         "fields": {
             "state": 1114,
             "issue": 112,
-            "state_issue_score": "0.0",
+            "state_issue_score": 0,
             "weight": 1
         }
     },
@@ -2289,7 +2289,7 @@ campaignTrail_temp.state_issue_score_json = [
         "fields": {
             "state": 1114,
             "issue": 113,
-            "state_issue_score": "0.0",
+            "state_issue_score": 0,
             "weight": 1
         }
     },
@@ -2589,7 +2589,7 @@ campaignTrail_temp.state_issue_score_json = [
         "fields": {
             "state": 1120,
             "issue": 113,
-            "state_issue_score": "0.0",
+            "state_issue_score": 0,
             "weight": 1
         }
     },
@@ -3079,7 +3079,7 @@ campaignTrail_temp.state_issue_score_json = [
         "fields": {
             "state": 1130,
             "issue": 112,
-            "state_issue_score": "0.0",
+            "state_issue_score": 0,
             "weight": 1
         }
     },
@@ -3439,7 +3439,7 @@ campaignTrail_temp.state_issue_score_json = [
         "fields": {
             "state": 1137,
             "issue": 113,
-            "state_issue_score": "0.0",
+            "state_issue_score": 0,
             "weight": 1
         }
     },
@@ -4515,7 +4515,7 @@ campaignTrail_temp.candidate_issue_score_json = [
         "fields": {
             "candidate": 303,
             "issue": 112,
-            "issue_score": "0.0"
+            "issue_score": 0
         }
     },
     {
@@ -4524,7 +4524,7 @@ campaignTrail_temp.candidate_issue_score_json = [
         "fields": {
             "candidate": 303,
             "issue": 113,
-            "issue_score": "0.0"
+            "issue_score": 0
         }
     },
     {
@@ -4620,7 +4620,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 300,
             "state": 1103,
-            "state_multiplier": 0.0015
+            "state_multiplier": 0.0005
         }
     },
     {
@@ -7184,7 +7184,7 @@ campaignTrail_temp.answer_score_issue_json = [
         "pk": 42963,
         "fields": {
             "answer": 42520,
-            "issue": "110",
+            "issue": 110,
             "issue_score": 0.5,
             "issue_importance": 1
         }
@@ -7254,7 +7254,7 @@ campaignTrail_temp.answer_score_issue_json = [
         "pk": 42985,
         "fields": {
             "answer": 42761,
-            "issue": "110",
+            "issue": 110,
             "issue_score": 0.4,
             "issue_importance": 1
         }
@@ -7264,7 +7264,7 @@ campaignTrail_temp.answer_score_issue_json = [
         "pk": 42986,
         "fields": {
             "answer": 42758,
-            "issue": "110",
+            "issue": 110,
             "issue_score": -0.4,
             "issue_importance": 1
         }
@@ -7354,7 +7354,7 @@ campaignTrail_temp.answer_score_issue_json = [
         "pk": 43010,
         "fields": {
             "answer": 42804,
-            "issue": "110",
+            "issue": 110,
             "issue_score": -0.7,
             "issue_importance": 1
         }
@@ -7374,7 +7374,7 @@ campaignTrail_temp.answer_score_issue_json = [
         "pk": 43012,
         "fields": {
             "answer": 42807,
-            "issue": "110",
+            "issue": 110,
             "issue_score": 0.1,
             "issue_importance": 1
         }
@@ -7384,7 +7384,7 @@ campaignTrail_temp.answer_score_issue_json = [
         "pk": 43013,
         "fields": {
             "answer": 42817,
-            "issue": "110",
+            "issue": 110,
             "issue_score": 0.01,
             "issue_importance": 1
         }
@@ -7424,7 +7424,7 @@ campaignTrail_temp.answer_score_issue_json = [
         "pk": 43022,
         "fields": {
             "answer": 42839,
-            "issue": "110",
+            "issue": 110,
             "issue_score": -0.4,
             "issue_importance": 1
         }
@@ -7434,7 +7434,7 @@ campaignTrail_temp.answer_score_issue_json = [
         "pk": 43023,
         "fields": {
             "answer": 42843,
-            "issue": "110",
+            "issue": 110,
             "issue_score": -0.6,
             "issue_importance": 1
         }
@@ -7444,7 +7444,7 @@ campaignTrail_temp.answer_score_issue_json = [
         "pk": 43024,
         "fields": {
             "answer": 42846,
-            "issue": "110",
+            "issue": 110,
             "issue_score": 0.01,
             "issue_importance": 1
         }
@@ -7454,7 +7454,7 @@ campaignTrail_temp.answer_score_issue_json = [
         "pk": 43026,
         "fields": {
             "answer": 42852,
-            "issue": "110",
+            "issue": 110,
             "issue_score": -0.2,
             "issue_importance": 1
         }
@@ -7494,7 +7494,7 @@ campaignTrail_temp.answer_score_issue_json = [
         "pk": 43031,
         "fields": {
             "answer": 42862,
-            "issue": "110",
+            "issue": 110,
             "issue_score": 0.3,
             "issue_importance": 1
         }
@@ -7504,7 +7504,7 @@ campaignTrail_temp.answer_score_issue_json = [
         "pk": 43032,
         "fields": {
             "answer": 42865,
-            "issue": "110",
+            "issue": 110,
             "issue_score": -0.1,
             "issue_importance": 1
         }
@@ -7514,7 +7514,7 @@ campaignTrail_temp.answer_score_issue_json = [
         "pk": 43033,
         "fields": {
             "answer": 42882,
-            "issue": "110",
+            "issue": 110,
             "issue_score": 0.4,
             "issue_importance": 1
         }
@@ -7534,7 +7534,7 @@ campaignTrail_temp.answer_score_issue_json = [
         "pk": 43035,
         "fields": {
             "answer": 42885,
-            "issue": "110",
+            "issue": 110,
             "issue_score": -0.25,
             "issue_importance": 1
         }
@@ -7544,7 +7544,7 @@ campaignTrail_temp.answer_score_issue_json = [
         "pk": 43036,
         "fields": {
             "answer": 42888,
-            "issue": "110",
+            "issue": 110,
             "issue_score": 0.25,
             "issue_importance": 1
         }
@@ -7564,7 +7564,7 @@ campaignTrail_temp.answer_score_issue_json = [
         "pk": 43038,
         "fields": {
             "answer": 42914,
-            "issue": "110",
+            "issue": 110,
             "issue_score": 0.15,
             "issue_importance": 1
         }
@@ -7584,7 +7584,7 @@ campaignTrail_temp.answer_score_issue_json = [
         "pk": 43040,
         "fields": {
             "answer": 42927,
-            "issue": "110",
+            "issue": 110,
             "issue_score": 0.35,
             "issue_importance": 1
         }
@@ -7604,7 +7604,7 @@ campaignTrail_temp.answer_score_issue_json = [
         "pk": 43047,
         "fields": {
             "answer": 42943,
-            "issue": "110",
+            "issue": 110,
             "issue_score": 0.7,
             "issue_importance": 1
         }
@@ -7945,7 +7945,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 42745,
             "candidate": 300,
-            "answer_feedback": "Unfortunately, most liberals who aren’t voting for Kamala Harris will likely back Jill Stein or someone similar. On top of that, the very few who give your campaign so much as a quick glance discover your promise to ban marijuana, despite your pro-choice ideals.  \n"
+            "answer_feedback": "Unfortunately, most liberals who aren’t voting for Kamala Harris will likely back Jill Stein or someone similar. On top of that, the very few who give your campaign so much as a quick glance discover your promise to ban marijuana, despite your pro-choice ideals. \n"
         }
     },
     {
@@ -8404,7 +8404,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 42885,
             "candidate": 300,
-            "answer_feedback": "Of the hundreds who laugh at you, ignore you, or worst of all, tell you no, you get one. Just one person. Y’know the worst part? She admits that she was high on election day and didn’t mean to vote for your party.  \n"
+            "answer_feedback": "Of the hundreds who laugh at you, ignore you, or worst of all, tell you no, you get one. Just one person. Y’know the worst part? She admits that she was high on election day and didn’t mean to vote for your party. \n"
         }
     }
 ]
@@ -8464,7 +8464,7 @@ You put it out of mind.
 `;
     }
     if(quickstats[2] > 10000) {
-        setImage("https://i.postimg.cc/mkYL00nb/IMG-3392.jpg");
+        setImage("https://i.postimg.cc/52P60ZSP/IMG-3392.jpg");
         return `<b>To nobody’s surprise, you lost.</b>
 <p>
 But maybe..
@@ -8538,7 +8538,7 @@ campaignTrail_temp.jet_data = [{
             "variable": "2",
             "operator": ">",
             "value": 0,
-            "endingImage": "https://i.postimg.cc/mkYL00nb/IMG-3392.jpg",
+            "endingImage": "https://i.postimg.cc/52P60ZSP/IMG-3392.jpg",
             "endingText": "<b>To nobody’s surprise, you lost.</b>\n<p>\nBut maybe..\n<p>\nMaybe lost isn’t the right term.\n<p>\nNobody really expected you to “win” the election. But gaining a plurality of electoral votes shouldn’t be how people gauge your campaign’s success. Because you, Michael Wood, have done something extraordinary. This was extraordinary. \n<p>\nWhat makes it so? Was it showing your party its best performance in over 50 years? Was it the fact that your single-issue drug campaign garnered more votes than anyone who voted for you would’ve predicted? Was it the vote total despite the poor budget from your party? Perhaps it was all of these things.\n<p>\nThere is no telling what your future holds. And you couldn’t be happier.\n<p>\nWhy?\n<p>\nBecause you, Michael Wood, spoke to Americans about their biggest concern. One they didn’t even know about.\n<p>\nAnd they listened.\n<p>\nThey listened to you, Mike.\n",
             "amount": "10000"
         },
