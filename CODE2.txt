@@ -4620,7 +4620,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 300,
             "state": 1103,
-            "state_multiplier": 0.0005
+            "state_multiplier": 0.00005
         }
     },
     {
@@ -6613,7 +6613,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 42515,
             "candidate": 300,
             "affected_candidate": 300,
-            "global_multiplier": 0.15
+            "global_multiplier": 0.005
         }
     },
     {
@@ -6633,7 +6633,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 42519,
             "candidate": 300,
             "affected_candidate": 300,
-            "global_multiplier": 0.5
+            "global_multiplier": 0.008
         }
     },
     {
@@ -6643,7 +6643,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 42520,
             "candidate": 300,
             "affected_candidate": 300,
-            "global_multiplier": 0.001
+            "global_multiplier": -0.001
         }
     },
     {
@@ -6653,7 +6653,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 42742,
             "candidate": 300,
             "affected_candidate": 300,
-            "global_multiplier": -0.006
+            "global_multiplier": -0.01
         }
     },
     {
@@ -6683,7 +6683,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 42761,
             "candidate": 300,
             "affected_candidate": 300,
-            "global_multiplier": 0.007
+            "global_multiplier": 0.001
         }
     },
     {
@@ -6703,7 +6703,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 42771,
             "candidate": 300,
             "affected_candidate": 300,
-            "global_multiplier": 0.03
+            "global_multiplier": 0.002
         }
     },
     {
@@ -6773,7 +6773,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 42800,
             "candidate": 300,
             "affected_candidate": 300,
-            "global_multiplier": 0.005
+            "global_multiplier": 0.002
         }
     },
     {
@@ -7088,16 +7088,6 @@ campaignTrail_temp.answer_score_global_json = [
     },
     {
         "model": "campaign_trail.answer_score_global",
-        "pk": 42936,
-        "fields": {
-            "answer": 42934,
-            "candidate": 300,
-            "affected_candidate": 300,
-            "global_multiplier": -4
-        }
-    },
-    {
-        "model": "campaign_trail.answer_score_global",
         "pk": 42945,
         "fields": {
             "answer": 42943,
@@ -7123,7 +7113,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 42529,
             "candidate": 300,
             "affected_candidate": 300,
-            "global_multiplier": 0.05
+            "global_multiplier": 0.003
         }
     },
     {
@@ -7133,7 +7123,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 42530,
             "candidate": 300,
             "affected_candidate": 300,
-            "global_multiplier": 0.01
+            "global_multiplier": 0.001
         }
     },
     {
@@ -7143,7 +7133,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 42531,
             "candidate": 300,
             "affected_candidate": 300,
-            "global_multiplier": 0.08
+            "global_multiplier": 0.01
         }
     },
     {
@@ -7154,16 +7144,6 @@ campaignTrail_temp.answer_score_global_json = [
             "candidate": 300,
             "affected_candidate": 300,
             "global_multiplier": 0.1
-        }
-    },
-    {
-        "model": "campaign_trail.answer_score_global",
-        "pk": 43048,
-        "fields": {
-            "answer": 42937,
-            "candidate": 300,
-            "affected_candidate": 300,
-            "global_multiplier": -4
         }
     },
     {
@@ -7620,7 +7600,7 @@ campaignTrail_temp.answer_score_state_json = [
             "state": 1150,
             "candidate": 300,
             "affected_candidate": 300,
-            "state_multiplier": 1
+            "state_multiplier": 0.3
         }
     },
     {
@@ -7774,7 +7754,7 @@ campaignTrail_temp.answer_score_state_json = [
             "state": 1103,
             "candidate": 300,
             "affected_candidate": 300,
-            "state_multiplier": 0.1
+            "state_multiplier": -0.9
         }
     },
     {
@@ -7785,7 +7765,7 @@ campaignTrail_temp.answer_score_state_json = [
             "state": 1150,
             "candidate": 300,
             "affected_candidate": 300,
-            "state_multiplier": 0.1
+            "state_multiplier": 0.01
         }
     },
     {
@@ -7808,6 +7788,39 @@ campaignTrail_temp.answer_score_state_json = [
             "candidate": 300,
             "affected_candidate": 300,
             "state_multiplier": 0.01
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_state",
+        "pk": 43050,
+        "fields": {
+            "answer": 42937,
+            "state": 1103,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "state_multiplier": -2
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_state",
+        "pk": 43051,
+        "fields": {
+            "answer": 42940,
+            "state": 1103,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "state_multiplier": -2
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_state",
+        "pk": 43052,
+        "fields": {
+            "answer": 42943,
+            "state": 1103,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "state_multiplier": -2
         }
     }
 ]
@@ -7972,7 +7985,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 42761,
             "candidate": 300,
-            "answer_feedback": "Considering how combative campaigning has been in recent years, your audience considers this a nice change of pace. Acting statesmanlike while also remaining realistic about your chances of winning are qualities unique to your campaign that a lot of potential supporters are sure to admire. \n"
+            "answer_feedback": "Considering how combative presidential campaigning has been in recent years, your miniscule audience considers this a nice change of pace. Acting statesmanlike while also remaining realistic about your chances of winning are qualities a lot of potential supporters are sure to admire. "
         }
     },
     {
@@ -8062,7 +8075,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 42800,
             "candidate": 300,
-            "answer_feedback": "“The CDC says…” you rattle stats off the top of your head, sharing uncomfortable truths of the horrors of lung cancer, the causes of which you claim are from smoking cigarettes and marijuana. It’s the usual for you, but out of the corner of your eye you catch a glimpse of someone smoking a vape while walking past the modest sized crowd. Your stomach churns.\n"
+            "answer_feedback": "“The CDC says…” you rattle stats off the top of your head, sharing uncomfortable truths of the horrors of lung cancer, the causes of which you claim are from smoking cigarettes and marijuana. Out of the corner of your eye you catch a glimpse of someone smoking a vape while walking past the modest sized crowd. Your stomach churns.\n"
         }
     },
     {
