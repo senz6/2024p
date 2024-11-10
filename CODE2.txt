@@ -8254,7 +8254,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 42807,
             "candidate": 300,
-            "answer_feedback": "In a 15-or-so minute speech, you speak about your friend's memory, as you recall how you tried to console his grieving family. How you watched his father deliver the closing remarks at his funeral. How you remembered his mother's sobs. Who knows if any of the faces in the crowd, who are just as emotional as yours, will end up voting for you. Maybe it doesn’t matter.\n"
+            "answer_feedback": "In a 15 minute speech, you speak on your friend's memory. You recall how you tried to console his grieving family. How you watched his father deliver the closing remarks at his funeral. How you remembered his mother's sobs. Who knows if the faces in the crowd, just as emotional as yours, will end up voting for you. Maybe it doesn’t matter.\n"
         }
     },
     {
