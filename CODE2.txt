@@ -166,7 +166,25 @@ campaignTrail_temp.questions_json = [
         "pk": 42933,
         "fields": {
             "priority": 1,
-            "description": "Election Day. The Prohibition Party has thrown together every last cent it can afford on this campaign to give you one final push in a location of your choosing. Where’ll it be?\n",
+            "description": "Election Day is tomorrow. The Prohibition Party has thrown together every last cent it can afford on this campaign to give you one final push in a location of your choosing. Where’ll it be?\n",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 43065,
+        "fields": {
+            "priority": 1,
+            "description": "The election is today. You've walked into your local polling place, past dozens of Trump/Harris signs, past a group of people arguing about immigration, past trash cans with beer cans and vape pens from partying students the night before and cast your vote. Your work is finished.",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 43070,
+        "fields": {
+            "priority": 1,
+            "description": "Election night. You have no watch party. You have no big rally with thousands of people. You’re sitting. Alone. Eyes glued to a TV. There’s no mention of your name on the election coverage, and it doesn’t matter. Your mind is elsewhere. You have no idea just how many people suffer from addiction, feeling trapped in the darkest pits of hell. \n",
             "likelihood": 1
         }
     }
@@ -699,6 +717,30 @@ campaignTrail_temp.answers_json = [
         "fields": {
             "question": 42933,
             "description": "Get me up to New England. I’d like to speak to voters in New Hampshire and Vermont, they’ve got some of the biggest potential we could ask for.\n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 43066,
+        "fields": {
+            "question": 43065,
+            "description": "I did a good job. I have nothing more."
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 43071,
+        "fields": {
+            "question": 43070,
+            "description": "..."
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 43075,
+        "fields": {
+            "question": 43065,
+            "description": "I wish I could have done better."
         }
     }
 ]
@@ -7255,6 +7297,36 @@ campaignTrail_temp.answer_score_global_json = [
             "affected_candidate": 300,
             "global_multiplier": 1
         }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 43068,
+        "fields": {
+            "answer": 43066,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.0005
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 43073,
+        "fields": {
+            "answer": 43071,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": 0.0001
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 43077,
+        "fields": {
+            "answer": 43075,
+            "candidate": 300,
+            "affected_candidate": 300,
+            "global_multiplier": -0.0005
+        }
     }
 ]
 
@@ -8470,7 +8542,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 42934,
             "candidate": 300,
-            "answer_feedback": "You fervently continue the rallies and campaigning you've been doing. You begin to see a couple repeat faces in the crowds you speak to. This is indeed where most of your voters will come from. You haven’t given up on the state yet, Mike. But has it given up on you? Only time will tell. Good luck. \n"
+            "answer_feedback": "You fervently continue the rallies and campaigning you've been doing. You begin to see a couple repeat faces in the crowds you speak to. You haven’t given up on the state yet, but has it given up on you? Only time will tell. \n"
         }
     },
     {
@@ -8488,7 +8560,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 42940,
             "candidate": 300,
-            "answer_feedback": "You throw a hasty rally in Philadelphia attended by around 50 people before rushing over to Newark for a similar function, only to be met with about a dozen. After your little shindig wraps up, you sit on a park bench and collect your thoughts, staring at an empty glass bottle on the ground. Within it, all you can see is your warped reflection.\n"
+            "answer_feedback": "You throw a hasty rally in Philadelphia attended by around 50 people before rushing over to Newark for a similar function, only to be met with about a dozen. After your rally wraps up, you sit on a park bench and collect your thoughts, staring at an empty glass bottle on the ground. Within it, all you can see is your warped reflection.\n"
         }
     },
     {
@@ -8507,6 +8579,33 @@ campaignTrail_temp.answer_feedback_json = [
             "answer": 42885,
             "candidate": 300,
             "answer_feedback": "Of the hundreds who laugh at you, ignore you, or worst of all, tell you no, you get one. Just one person. Y’know the worst part? She admits that she was high on election day and didn’t mean to vote for your party. \n"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 43072,
+        "fields": {
+            "answer": 43071,
+            "candidate": 300,
+            "answer_feedback": "And yet, you’ve made a point to them, and everyone you’ve met, that they can rid themselves of addictions horrors. It’s never too late."
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 43074,
+        "fields": {
+            "answer": 43066,
+            "candidate": 300,
+            "answer_feedback": "Your battle is over but the war is far from finished. Good luck tonight."
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 43076,
+        "fields": {
+            "answer": 43075,
+            "candidate": 300,
+            "answer_feedback": "Let's see how election night goes."
         }
     }
 ]
